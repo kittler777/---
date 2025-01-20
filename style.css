@@ -42,8 +42,35 @@ body {
   color: #737373;
 }
 
-
 /* phone */
 
+.phone {
+  min-width: 414px;
+}
 
+.contphone {
+  margin: 300px auto;
+  max-width: 210px;
+}
 
+.cardph {
+  text-align: center;
+  margin-bottom: 105px;
+}
+
+.phone img {
+  margin-bottom: 30px;
+}
+
+.phone h3 {
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #252b42;
+}
+
+.phone p {
+  font-weight: 500;
+  font-size: 14px;
+  color: #737373;
+}
